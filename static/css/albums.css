@@ -1,0 +1,51 @@
+
+
+h2 { 
+    color: gold;
+    background-color: purple;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    width: 400px;
+    display:flex;
+    justify-content: center;
+    padding: 25px;
+    border-width: 2px;
+    border-color: black;
+    
+}
+
+#album {
+    background-color: gray;
+    border-radius: 20px;
+    width: 200px;
+}
+p { 
+    color: red;
+    background-color: gold;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    border-radius: 25px;
+    font-size: 20px;
+    border: 2px black;
+}
+
+body { 
+    background-color: white;
+    border-width: 2px;
+    border-color: red;
+}
+
+h3 { 
+    background-color: red;
+    border-radius: 30px;
+    padding: 5px;
+    color: gold;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
